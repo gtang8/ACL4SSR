@@ -2,7 +2,6 @@
 # https://raw.githubusercontent.com/gtang8/ACL4SSR/master/Clash/BanXiaomi.list
 # https://github.com/gtang8/ACL4SSR/tree/master/Clash
 
-DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,gvod.aiseejapp.atianqi.com
 DOMAIN-SUFFIX,stat.pandora.xiaomi.com
 DOMAIN-SUFFIX,upgrade.mishop.pandora.xiaomi.com
