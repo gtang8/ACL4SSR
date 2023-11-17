@@ -2,6 +2,10 @@
 
 # MyList && Other
 
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,mypikpak.com
 DOMAIN-SUFFIX,repo.jellyfin.org
 DOMAIN-SUFFIX,jellyfin.org
