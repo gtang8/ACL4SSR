@@ -2,6 +2,7 @@
 
 # MyList && Other
 
+DOMAIN-SUFFIX,sudoku.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,oaistatic.com
